@@ -9,13 +9,13 @@ last_update:
   author: Matthew
 ---
 
-<div align="center"><img width="{1000}" src="https://files.seeedstudio.com/wiki/IndexWiki/logo.png" /></div>
+<div align="center"><img width={1000} src="https://files.seeedstudio.com/wiki/IndexWiki/logo.png" /></div>
 
 ## Greetings!
 
 This is Matthew in Seeed Studio and welcome to the Seeed Studio weekly wiki! In each Monday, I will introduce you our latest wiki, including the ones related to our new products, the interesting projucts published by Seeed Studio, and the tutorials, introductions, etc... You name it.
 
-Today is when when when and a brand new week has begun! Check out what Seeed did last week!
+Today is February 27th and a brand new week has begun! Check out what Seeed did last week!
 
 ## Latest Wiki Launched
 

@@ -87,7 +87,7 @@ You can discover this page with two large portions.
     <a class="title_item" style={{textAlign: 'center'}}>
             <div class="start_card_title" style={{textAlign: 'center'}}><font color={'8DC21F'} size={"6"}>SenseCAP AI-based Sensors</font></div>
             <div class="start_card_title" style={{textAlign: 'center'}}><font color={'FFFFFF'} size={"3"}>Built for reday-to-deploy intelligent scenarios, <strong>SenseCAP A1101</strong> with intelligent vision is really. </font></div>
-            <a href="Sensor/SenseCAP/SenseCAP_LoRaWAN_Sensor/SenseCAP_A1101/Train-Deploy-AI-Model-A1101" target="_blank"><span><font color={'FFFFFF'} size={"3"}> Click here for more information</font></span></a>
+            <a href="/Train-Deploy-AI-Model-A1101" target="_blank"><span><font color={'FFFFFF'} size={"3"}> Click here for more information</font></span></a>
     </a>
 </div>
 
@@ -112,7 +112,7 @@ You can discover this page with two large portions.
             <br/>
             <a href="Sensor/SenseCAP/SenseCAP_Data_Logger/tutorial/How_to_Configure_the_Counter&GPIO_Sensor_for_S2100_Data_Logger" target="_blank"><span><font color={'FFFFFF'} size={"2"}>Configure the Counter & GPIO Sensor for S2100 Data Logger</font></span></a>
             <br/>
-            <a href="Sensor/SenseCAP/SenseCAP_Data_Logger/tutorial/Build-LoRaWAN-Sensors-SenseCAP-XIAO-Controller-Data-Logger" target="_blank"><span><font color={'FFFFFF'} size={"2"}>Build LoRaWAN Sensors with SenseCAP S2110 Grove to MODBUS RS485 Converter and SenseCAP Data Logger</font></span></a>
+            <a href="/Build-LoRaWAN-Sensors-SenseCAP-XIAO-Controller-Data-Logger" target="_blank"><span><font color={'FFFFFF'} size={"2"}>Build LoRaWAN Sensors with SenseCAP S2110 Sensor Builder and SenseCAP Data Logger</font></span></a>
             <br/>
     </a>
     <a class="independent_item" style={{textAlign: 'left'}}>
@@ -245,7 +245,7 @@ You can discover this page with two large portions.
             <a href="/Grove-AHT20-I2C-Industrial-Grade-Temperature&Humidity-Sensor" target="_blank"><span><font color={'FFFFFF'} size={"2"}> HDC1000</font></span></a>
             <br/>
             <a href="/Grove-TempAndHumi_Sensor-SHT31" target="_blank"><span><font color={'FFFFFF'} size={"2"}> SHT31 </font></span></a>,
-            <a href="/Grove-I2C_High_Accuracy_Temp&Humi_Sensor-SHT35" target="_blank"><span><font color={'FFFFFF'} size={"2"}> SHT35 </font></span></a>,
+            <a href="/Grove-I2C_High_Accuracy_Temp%26Humi_Sensor-SHT35" target="_blank"><span><font color={'FFFFFF'} size={"2"}> SHT35 </font></span></a>,
             <a href="/Grove-SHT4x" target="_blank"><span><font color={'FFFFFF'} size={"2"}> SHT4x </font></span></a>
             <br/>
     </a>
@@ -263,7 +263,7 @@ You can discover this page with two large portions.
             <br/>
             <a href="/Grove_SEN5X_All_in_One" target="_blank"><span><font color={'FFFFFF'} size={"2"}>NOx/PM/VOC/RH/Temp</font></span></a>
             <br/>
-            <a href="/Grove-CO2&Temperature&HumiditySensor-SCD41" target="_blank"><span><font color={'FFFFFF'} size={"2"}>CO2/Temp/Humi</font></span></a>,
+            <a href="/Grove-CO2_&_Temperature_&_Humidity_Sensor-SCD41" target="_blank"><span><font color={'FFFFFF'} size={"2"}>CO2/Temp/Humi</font></span></a>,
             <a href="/Grove-Light-Gesture-Color-Proximity_Sensor-TMG39931" target="_blank"><span><font color={'FFFFFF'} size={"2"}> More... </font></span></a>
             <br/>
     </a>
@@ -527,7 +527,7 @@ You can discover this page with two large portions.
     </a>
 </div>
 
-### Microcontrollers -->
+### Microcontrollers
 
 <!-- Open Source Controllers -->
 
@@ -658,10 +658,12 @@ You can discover this page with two large portions.
 
 <div class="intro_container">
     <a class="intro_item" style={{textAlign: 'center'}}>
-            <div class="start_card_title" style={{textAlign: 'center'}}><font color={'8DC215'} size={"5"}>Azure Sphere</font></div>
+            <div class="start_card_title" style={{textAlign: 'center'}}><font color={'8DC215'} size={"5"}>Azure IoT</font></div>
             <a href="Azure_Sphere_MT3620_Development_Kit" target="_blank"><span><font color={'FFFFFF'} size={"2"}> MT3620 Development Kit for Azure Sphere</font></span></a>
             <br/>
             <a href="MT3620_Mini_Dev_Board" target="_blank"><span><font color={'FFFFFF'} size={"2"}> MT3620 Mini Dev Board for Azure Sphere</font></span></a>
+            <br/>
+            <a href="https://seeedjp.github.io/ReButton/" target="_blank"><span><font color={'FFFFFF'} size={"2"}> reButton for Azure IoT Hub/IoT Central</font></span></a>
             <br/>
     </a>
     <a class="intro_item" style={{textAlign: 'center'}}>
@@ -841,7 +843,7 @@ You can discover this page with two large portions.
 
 <!-- Embedded ML Scenarios -->
 
-### Embedde ML Scenarios <
+### Embedde ML Scenarios
 
 <div class="title_container">
     <a class="title_item" style={{textAlign: 'center'}}>
