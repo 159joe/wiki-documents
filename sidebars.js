@@ -620,7 +620,9 @@ const sidebars = {
               type: 'category',
               label: 'SenseCAP A1101',
               items: [
+                'Sensor/SenseCAP/SenseCAP_LoRaWAN_Sensor/SenseCAP_A1101/SenseCAP-Vision-AI-Get-Started',
                 'Sensor/SenseCAP/SenseCAP_LoRaWAN_Sensor/SenseCAP_A1101/Train-Deploy-AI-Model-A1101',
+                'Sensor/SenseCAP/SenseCAP_LoRaWAN_Sensor/SenseCAP_A1101/One-Stop-Model-Training-with-Edge-Impulse',
 //                 'Sensor/SenseCAP/SenseCAP_LoRaWAN_Sensor/SenseCAP_A1101/Train_and_Deploy_Your_Own_AI_Model_with_Edge_Impulse_into_A1101',
               ],
             },
@@ -804,10 +806,19 @@ const sidebars = {
           items: [
             'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32S3/XIAO_ESP32S3_Getting_Started',
             'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32S3/XIAO_ESP32S3_WiFi_Usage',
-            // 'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32S3/XIAO_ESP32S3_Bluetooth_Usage',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32S3/XIAO_ESP32S3_Bluetooth_Usage',
             'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32S3/XIAO_ESP32S3_Pin_Multiplexing',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32S3/XIAO_ESP32S3_EdgeLab',
           ],
         },
+        // {
+        //   type: 'category',
+        //   label: 'SeeedStudio XIAO ESP32S3 Sense',
+        //   items: [
+        //     // 'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32S3_Sense/XIAO_ESP32S3_Sense_tf_and_filesystem',
+        //     // 'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32S3_Sense/XIAO_ESP32S3_Sense_camera',
+        //   ],
+        // },
         {
           type: 'category',
           label: 'SeeedStudio XIAO Expansion board',
@@ -828,7 +839,7 @@ const sidebars = {
           type: 'category',
           label: 'Kit with Courses',
           items: [
-            'Sensor/SeeedStudio_XIAO/Kit with Courses/XIAO-Kit-Courses',
+            'Sensor/SeeedStudio_XIAO/Kit_with_Courses/XIAO-Kit-Courses',
 
           ]
         },

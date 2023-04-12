@@ -26,8 +26,9 @@ Connect the reComputer host to a USB-connected keyboard, mouse, and connect to t
 
 <p style={{textAlign: 'center'}}><img src="https://files.seeedstudio.com/wiki/recomputerzhongwen/rekaiji1.jpg" alt="pir" width={600} height="auto" /></p>
 
-!!!Note
-    For the reComputer host with both HDMI or DP interface, although it has two display output ports, it does not support dual display output, which means only one display output interface can be used at the same time.
+:::note
+For the reComputer host with both HDMI or DP interface, although it has two display output ports, it does not support dual display output, which means only one display output interface can be used at the same time.
+:::
 
 ## 2. Power Up
 
@@ -37,8 +38,9 @@ After connecting peripherals, connect power to the reComputer host.
 
 <p style={{textAlign: 'center'}}><img src="https://files.seeedstudio.com/wiki/reComputer-Jetson-Nano/dc1.png" alt="pir" width={600} height="auto" /></p>
 
-!!!Note
-    [reComputer J1010](https://www.seeedstudio.com/Jetson-10-1-A0-p-5336.html) has a Type-C port on the both sides, where the one on the right near the LAN port is the data transmission port. It is strictly forbidden to insert the Type-C power supply into the data transmission port on the right, which may cause damage to the components.
+:::note
+[reComputer J1010](https://www.seeedstudio.com/Jetson-10-1-A0-p-5336.html) has a Type-C port on the both sides, where the one on the right near the LAN port is the data transmission port. It is strictly forbidden to insert the Type-C power supply into the data transmission port on the right, which may cause damage to the components.
+:::
 
 - [reComputer J1020](https://www.seeedstudio.com/Jetson-10-1-H0-p-5335.html), [reComputer J2011](https://www.seeedstudio.com/Jetson-20-1-H1-p-5328.html), and [reComputer J2012](https://www.seeedstudio.com/Jetson-20-1-H2-p-5329.html) are powered by DC interface where is near the HDMI interface.
 
@@ -96,9 +98,10 @@ The final you will chose is the supply voltage while the reComputer operating.
 
 <p style={{textAlign: 'center'}}><img src="https://files.seeedstudio.com/wiki/recomputerzhongwen/rekaiji12.jpg" alt="pir" width={600} height="auto" /></p>
 
-!!!Note
-    The following table shows NVIDIA predefined power modes and associated module resource usage caps.
-    <div align="center"><img width={800} src="https://files.seeedstudio.com/wiki/reComputer-Jetson-Nano/21.jpg" /></div>
+:::note
+The following table shows NVIDIA predefined power modes and associated module resource usage caps.
+<div align="center"><img width={800} src="https://files.seeedstudio.com/wiki/reComputer-Jetson-Nano/21.jpg" /></div>
+:::
 
 After completing the above instructions, we need to wait 1~2 minutes for the reComputer to do the final configuration.
 
@@ -144,18 +147,19 @@ If you haven't started a project with reComputer, you might consider using this 
 
 - There are generally two ways to install a system for reComputer, the first is to use the **NVIDIA SDK Manager**.
 
-If you are on a **reComputer J2011** or **reComputer J2012**, in **step 12** of [Flashing to eMMC with SDK Manager](https://wiki.seeedstudio.com/Tutorial-of-A20X-Carrier-Boards/#flashing-to-emmc-with-sdk-manager), you can expand the capacity by changing the location of the system burn-in.
+If you are on a **reComputer J2011** or **reComputer J2012**, in **step 12** of [Flashing to eMMC with SDK Manager](reComputer_J2021_J202_Flash_Jetpack#flashing-to-emmc-with-command-line), you can expand the capacity by changing the location of the system burn-in.
 
 <div align="center"><img width={500} src="https://files.seeedstudio.com/wiki/recomputer-Jetson-20-1-H1/kuorong/52.png" /></div>
 
-!!!Tip
-    This method is not applicable to the Jetson Nano module.
+:::tip
+This method is not applicable to the Jetson Nano module.
+:::
 
 - There are generally two ways to install a system for reComputer, the second is to use the **command lines**.
 
-  - If you are using an **A20X carrier board**, the method to install the system using the command line is in [Flashing to eMMC with command-line](https://wiki.seeedstudio.com/Tutorial-of-A20X-Carrier-Boards/#flashing-to-emmc-with-command-line).
+- If you are using an **A20X carrier board**, the method to install the system using the command line is in [Flashing to eMMC with command-line](reComputer_J2021_J202_Flash_Jetpack#flashing-to-emmc-with-command-line).
 
-  - If you are using the **reComputer J1010 Carrier Board**, then use the command line to install the system at [Flashing to eMMC with command-line](https://wiki.seeedstudio.com/install_NVIDIA_software_to_Jetson-10-1-A0/#flashing-to-emmc-with-command-line).
+- If you are using the **reComputer J1010 Carrier Board**, then use the command line to install the system at [Flashing to eMMC with command-line](reComputer_J1010_J101_Flash_Jetpack#flashing-jetpack-os-via-command-line).
 
 They both essentially complete the installation of the system by using the following command.
 

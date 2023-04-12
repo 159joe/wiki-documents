@@ -5,7 +5,7 @@ keywords:
 - Sensor Network
 image: https://files.seeedstudio.com/wiki/wiki-platform/S-tempor.png
 last_update:
-  date: 04/07/2023
+  date: 01/20/2023
   author: Matthew
 ---
 
@@ -61,8 +61,6 @@ You can discover this page with two large portions.
             <a href="Sensor/SenseCAP/SenseCAP_Probe/Soil-Moisture-Temperature-EC-Sensor" target="_blank"><span><font color={'FFFFFF'} size={"2"}> Soil Moisture & Temperature Probe</font></span></a>
             <br/>
             <a href="Sensor/SenseCAP/SenseCAP_Probe/Soil-Moisture-Temperature-Sensor" target="_blank"><span><font color={'FFFFFF'} size={"2"}> Soil Moisture & Temperature & EC Probe</font></span></a>
-            <br/>
-            <a href="Sensor/SenseCAP/SenseCAP_Probe/RS485_500cm_Ultrasonic_Sensor" target="_blank"><span><font color={'FFFFFF'} size={"2"}> RS485 500cm Ultrasonic Level Sensor</font></span></a>
     </a>
 </div>
 
@@ -89,20 +87,7 @@ You can discover this page with two large portions.
     <a class="title_item" style={{textAlign: 'center'}}>
             <div class="start_card_title" style={{textAlign: 'center'}}><font color={'8DC21F'} size={"6"}>SenseCAP AI-based Sensors</font></div>
             <div class="start_card_title" style={{textAlign: 'center'}}><font color={'FFFFFF'} size={"3"}>Built for reday-to-deploy intelligent scenarios, <strong>SenseCAP A1101</strong> with intelligent vision is really. </font></div>
-    </a>
-</div>
-
-<div class="intro_container">
-    <a class="intro_item" style={{textAlign: 'left'}}>
-            <div class="start_card_title" style={{textAlign: 'center'}}><font color={'8DC215'} size={"5"}>SenseCAP A1101 Vision AI</font></div>
-            <a href="/SenseCAP-Vision-AI-Get-Started" target="_blank"><span><font color={'FFFFFF'} size={"2"}>Getting Started with SenseCAP A1101 Vision AI</font></span></a>
-            <br/>
-            <a href="/Train-Deploy-AI-Model-A1101" target="_blank"><span><font color={'FFFFFF'} size={"2"}>Train and Deploy Your Own AI Model Into SenseCAP A1101</font></span></a>
-            <br/>
-            <a href="/One-Stop-Model-Training-with-Edge-Impulse" target="_blank"><span><font color={'FFFFFF'} size={"2"}>One Stop Model Training with Edge Impulse</font></span></a>
-    </a>
-    <a class="intro_item" style={{textAlign: 'left'}}>
-            <div class="start_card_title" style={{textAlign: 'center'}}><font color={'8DC215'} size={"5"}>More Coming Soon</font></div>
+            <a href="/Train-Deploy-AI-Model-A1101" target="_blank"><span><font color={'FFFFFF'} size={"3"}> Click here for more information</font></span></a>
     </a>
 </div>
 
@@ -153,17 +138,17 @@ You can discover this page with two large portions.
 <div class="independent_container">
     <a class="independent_item" style={{textAlign: 'left'}}>
             <div class="independent_title" style={{textAlign: 'center'}}><font color={'8DC215'} size={"5"}>Helium-Platform Gateway</font></div>
+            <a href="Network/SenseCAP_Network/SenseCAP_M1-Helium_gateway/SenseCAP_M1_Overview" target="_blank"><span><font color={'FFFFFF'} size={"2"}>SenseCAP M1 Overview</font></span></a>
+            <br/>
             <a href="Network/SenseCAP_Network/SenseCAP_M1-Helium_gateway/SenseCAP_M1_Quick_Start" target="_blank"><span><font color={'FFFFFF'} size={"2"}>SenseCAP M1 Quick Start</font></span></a>
             <br/>
             <a href="Network/SenseCAP_Network/SenseCAP_M1-Helium_gateway/SenseCAP_M1_Local_Console" target="_blank"><span><font color={'FFFFFF'} size={"2"}>SenseCAP M1 Local Console</font></span></a>
             <br/>
+            <a href="Network/SenseCAP_Network/SenseCAP_M2_Data_Only-Helium_gateway/SenseCAP_M2_Data_Only_Overview" target="_blank"><span><font color={'FFFFFF'} size={"2"}>SenseCAP M2 Data Only Overview</font></span></a>
+            <br/>
             <a href="Network/SenseCAP_Network/SenseCAP_M2_Data_Only-Helium_gateway/SenseCAP_M2_Data_Only_Quick_Start" target="_blank"><span><font color={'FFFFFF'} size={"2"}>SenseCAP M2 Data Only Quick Start</font></span></a>
             <br/>
             <a href="Network/SenseCAP_Network/SenseCAP_M2_Data_Only-Helium_gateway/M2_Local_Console" target="_blank"><span><font color={'FFFFFF'} size={"2"}>SenseCAP M2 Data Only Local Console</font></span></a>
-            <br/>
-            <a href="/Network/SenseCAP_Network/SenseCAP_M2_Light_Gateway/SenseCAP_M2_Light_Gateway_Quick_Start" target="_blank"><span><font color={'FFFFFF'} size={"2"}>SenseCAP M2 Light Gateway Quick Start</font></span></a>
-            <br/>
-            <a href="/Network/SenseCAP_Network/SenseCAP_M2_Light_Gateway/SenseCAP_M2_Light_Gateway_FAQ" target="_blank"><span><font color={'FFFFFF'} size={"2"}>SenseCAP M2 Light Gateway FAQ</font></span></a>
             <br/>
     </a>
     <a class="independent_item" style={{textAlign: 'left'}}>
@@ -599,18 +584,6 @@ You can discover this page with two large portions.
 
 <div class="intro_container">
     <a class="intro_item" style={{textAlign: 'center'}}>
-            <div class="start_card_title" style={{textAlign: 'center'}}><font color={'8DC215'} size={"5"}>Seeed Studio XIAO ESP32S3</font></div>
-            <a href="/xiao_esp32s3_getting_started" target="_blank"><span><font color={'FFFFFF'} size={"2"}> Getting Started </font></span></a>
-            <br/>
-            <a href="/xiao_esp32s3_edgelab" target="_blank"><span><font color={'FFFFFF'} size={"2"}> EdgeLab Usage </font></span></a>
-            <br/>
-            <a href="/xiao_esp32s3_wifi_usage" target="_blank"><span><font color={'FFFFFF'} size={"2"}> Wi-Fi</font></span></a> ,
-            <a href="/xiao_esp32s3_bluetooth" target="_blank"><span><font color={'FFFFFF'} size={"2"}> Bluetooth 5.0 </font></span></a>
-    </a>
-</div>
-
-<div class="intro_container">
-    <a class="intro_item" style={{textAlign: 'center'}}>
             <div class="start_card_title" style={{textAlign: 'center'}}><font color={'8DC215'} size={"5"}>Wio Terminal(Wio Series)</font></div>
             <a href="/Wio-Terminal-Getting-Started" target="_blank"><span><font color={'FFFFFF'} size={"2"}> Getting Started </font></span></a>
             <br/>
@@ -972,8 +945,6 @@ You can discover this page with two large portions.
             <a href="/Seeeduino-XIAO-Expansion-Board" target="_blank"><span><font color={'FFFFFF'} size={"2"}> Board 1: 4 Grove ports / OLED / RTC / SD Card Slot</font></span></a>
             <br/>
             <a href="/Grove-Shield-for-Seeeduino-XIAO-embedded-battery-management-chip" target="_blank"><span><font color={'FFFFFF'} size={"2"}> Board 2: 8 Grove ports / Battery Management</font></span></a>
-            <br/>
-            <a href="/get_start_round_display" target="_blank"><span><font color={'FFFFFF'} size={"2"}> Seeed Studio Round Display Extension Board for XIAO </font></span></a>
             <br/>
     </a>
 </div>
